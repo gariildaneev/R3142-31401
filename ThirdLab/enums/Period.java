@@ -1,0 +1,3 @@
+public enum Period {
+    THATDAY,NOW,SOON,FIRSTTIME,FINALLY,NONE,ASBEFORE
+}
